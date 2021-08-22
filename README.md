@@ -1,2 +1,2 @@
-# PomodoroTimerToDoList
+# PomodoroAndToDoList
 Created with CodeSandbox
